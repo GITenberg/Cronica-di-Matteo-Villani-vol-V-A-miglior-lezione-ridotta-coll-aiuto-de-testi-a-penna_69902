@@ -1,0 +1,30 @@
+_repo: Cronica-di-Matteo-Villani-vol-V-A-miglior-lezione-ridotta-coll-aiuto-de-testi-a-penna_69902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villani, Matteo
+    gutenberg_agent_id: '55483'
+    url: http://www.gutenberg.org/2009/agents/55483
+  editor:
+    agent_name: Moutier, Ignazio
+    gutenberg_agent_id: '55484'
+    url: http://www.gutenberg.org/2009/agents/55484
+description: ''
+gutenberg_issued: '2023-01-29'
+identifiers:
+  gutenberg: '69902'
+language: it
+pgterms:marc905: 20210104084524villani
+pgterms:marc906: '1825'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the Bayerische Staatsbibliothek)
+publication_note: 'Italy: Magheri,1825,pubdate 1826.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cronica di Matteo Villani, vol. V: A miglior lezione ridotta coll''aiuto de''
+  testi a penna'
+url: http://www.gutenberg.org/ebooks/69902
