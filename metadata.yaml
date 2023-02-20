@@ -1,5 +1,8 @@
 _repo: Cronica-di-Matteo-Villani-vol-V-A-miglior-lezione-ridotta-coll-aiuto-de-testi-a-penna_69902
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69902-h/images/cover.jpg
 creator:
   author:
     agent_name: Villani, Matteo
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '55484'
     url: http://www.gutenberg.org/2009/agents/55484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69902#Cronica-di-Matteo-Villani-vol-V-A-miglior-lezione-ridotta-coll-aiuto-de-testi-a-penna
 gutenberg_issued: '2023-01-29'
 identifiers:
   gutenberg: '69902'
